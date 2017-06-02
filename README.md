@@ -1,17 +1,19 @@
 # mmap2json
-MindManager file to json
+MindManager mmap file to json
 
 learn golang
 
-## build:
+## build
 go build mmap2json.go
 
-## usage:
+## usage
 mmap2json -i=mmap -o=json
 
-## result:
-- input
-- ![mmap](https://raw.githubusercontent.com/shuax/mmap2json/master/screenshot/1.png)
+will convert all the files in the MMAP folder to the json directory
 
-- output
-- ![json](https://raw.githubusercontent.com/shuax/mmap2json/master/screenshot/2.png)
+## result
+### input
+![mmap](https://raw.githubusercontent.com/shuax/mmap2json/master/screenshot/1.png)
+
+### ouput
+![json](https://raw.githubusercontent.com/shuax/mmap2json/master/screenshot/2.png)
