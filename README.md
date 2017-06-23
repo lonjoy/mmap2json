@@ -17,3 +17,6 @@ will convert all the files in the MMAP folder to the json directory
 
 ### ouput
 ![json](https://raw.githubusercontent.com/shuax/mmap2json/master/screenshot/2.png)
+
+### draw online
+http://mofas.github.io/mindMap/dist/index.html
